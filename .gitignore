@@ -1,3 +1,8 @@
+# ignore everything in the following folders
+data/**
+logs/**
+notebooks/**/data/**
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
